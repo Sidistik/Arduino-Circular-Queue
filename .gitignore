@@ -1,0 +1,19 @@
+# Arduino compiled files
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
